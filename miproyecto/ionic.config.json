@@ -1,0 +1,7 @@
+{
+  "name": "miproyecto",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
